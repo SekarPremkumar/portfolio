@@ -1,1 +1,1 @@
-# Data Analyst / Data Engineer / Bussiness Analyst
+# Data Analyst / Data Engineer / Business Analyst
